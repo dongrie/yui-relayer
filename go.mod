@@ -13,7 +13,7 @@ require (
 	github.com/spf13/viper v1.12.0
 	github.com/tendermint/tendermint v0.34.20
 	github.com/tendermint/tm-db v0.6.6
-	go.uber.org/zap v1.21.0
+	go.uber.org/zap v1.24.0
 	golang.org/x/sync v0.0.0-20220513210516-0976fa681c29
 	gopkg.in/yaml.v2 v2.4.0
 )
